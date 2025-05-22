@@ -7,6 +7,16 @@ You can view the project board for the current version here:
 
 ---
 
+📌 **Understanding Issue Status**
+Each issue on the project board is assigned a status to show where it stands in the development process:
+
+- `Todo` – The issue has been acknowledged but work has not started yet.
+- `In Progress` – Development has begun and the issue is actively being worked on.
+- `In Review` – The work is nearly complete and currently undergoing testing or final adjustments.
+- `Committed` – The issue has been completed and is ready for inclusion in the next update
+
+---
+
 ## 📢 How to Submit an Issue
 
 You're welcome to submit ideas, feedback, or bug reports to help shape Vectorio's future. To keep things organized, please follow the naming and categorization guide below when creating an issue.
@@ -28,19 +38,17 @@ Note that this naming convention is not super strict, but please do try to follo
 
 ---
 
-### 📂 Accepted Categories
+📂 Accepted Categories
+When submitting an issue, please begin the title with one of the following categories:
 
-When submitting an issue, please start the title with one of the following categories:
+- `Core Tech` – Fundamental systems and backend architecture
+- `Game System` – Core gameplay mechanics and rules
+- `Content` – Anything related to buildings, units, quests, etc.
+- `Quality of Life` – Improvements that enhance player experience
+- `Optimization` – Performance-related feedback or ideas 
+- `Bug Fix` – Reports of broken, unintended, or inconsistent behavior
 
-- `Game System` – Core gameplay mechanics and systems (e.g., economy, combat loops)
-- `Core Tech` – Underlying tech or architectural changes (e.g., pathfinding, UI backend)
-- `Unit Behavior` – How units act or respond (e.g., idle movement, AI logic)
-- `Unit State` – Internal states a unit can be in (e.g., alert, charging, cooldown)
-- `Mission Type` – Concepts or changes related to mission design or goals
-- `Quest` – Ideas or feedback on narrative or side quests
-- `Characters` – Feedback or ideas about characters (dialogue, development, presence)
-- `Manufacturers` – Lore or design feedback on in-game corporations and their tech
-- `Bugs` – Report actual issues or unintended behavior
+Use the CATEGORY - NAME - TYPE format when creating issues (see above for details).
 
 ---
 
