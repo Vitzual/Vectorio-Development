@@ -13,12 +13,18 @@ You're welcome to submit ideas, feedback, or bug reports to help shape Vectorio'
 
 ### 📝 Naming Convention
 
-CATEGORY - NAME - TYPE
+`CATEGORY - SUB-CATEGORY *(optional)* - DETAILS`
+
+- CATEGORY - Use one of the categories listed below
+- SUB-CATEGORY - A sub-category to help group more specific issues (ex. entity type)
+- DETAILS - A few words explaining the details of your submission
 
 **Examples:**
-- `Game System - Energy Rework - Idea`
-- `Unit Behavior - Drone Retreating Too Early - Bug`
-- `Quest - Resource Chase Objective - Idea`
+- `Core Tech - Entities - Behavior Injection`
+- `Unit Behavior – Orbiting Decoys`
+- `Bugs - Unit - Permanent Idle State`
+
+Note that this naming convention is not super strict, but please do try to follow it as close as you can to keep things organized!
 
 ---
 
@@ -49,7 +55,6 @@ When submitting an issue, please start the title with one of the following categ
 
 ## ⚠️ Note
 
-This repository is still new and does **not reflect all of the work** that has gone into Vectorio v0.3 so far. Many features and updates are already in progress behind the scenes.
+This repository is still new and does **not reflect most of the work** that has gone into Vectorio v0.3 so far. Many features and updates are already finished and won't be listed here.
 
-Thanks for being a part of the development journey!  
-Let’s build something awesome together. 🚀
+Thanks for being a part of the development journey! 🚀
