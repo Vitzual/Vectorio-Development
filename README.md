@@ -2,8 +2,8 @@
 
 Welcome to the public development hub for **Vectorio**! This repository exists to help improve transparency and allow community members to contribute ideas, report bugs, and stay informed on the game’s development progress.
 
-You can view the official project board here:  
-🔗 https://github.com/users/Vitzual/projects/2
+You can view the project board for the current version here:  
+🔗 https://github.com/users/Vitzual/projects/2/views/1?sliceBy%5Bvalue%5D=v0.3
 
 ---
 
