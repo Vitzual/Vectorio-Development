@@ -8,6 +8,7 @@ You can view the project board for the current version here:
 ---
 
 📌 **Understanding Issue Status**
+
 Each issue on the project board is assigned a status to show where it stands in the development process:
 
 - `Todo` – The issue has been acknowledged but work has not started yet.
